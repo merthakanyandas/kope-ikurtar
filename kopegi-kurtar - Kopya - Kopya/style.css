@@ -1,0 +1,22 @@
+body {
+  text-align: center;
+  background: #f6b1d8;
+  font-family: Arial, sans-serif;
+}
+
+#title {
+  margin-top: 20px;
+}
+
+#game {
+  display: none;
+  margin: auto;
+  border: 3px solid #000;
+  background: #ffd6ea;
+}
+
+#startBtn {
+  padding: 10px 20px;
+  font-size: 20px;
+  cursor: pointer;
+}
